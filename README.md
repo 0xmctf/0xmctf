@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xmctf
-- 👀 I’m interested in Cybersecurity and Computer Engineering
-- 🌱 I’m currently learning the C Language
+- 👀 I’m interested in Ethical Hacking, Scripting and Vulnerability Management
+- 🌱 I’m currently learning Network & Web Application Penetration Testing techniques
 - 💞️ I’m looking to collaborate on projects as a mentee/student
 - 📫 How to reach me <!--- tba--->
 
